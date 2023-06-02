@@ -1,0 +1,3 @@
+﻿  game.c
+e:\VS项目文件\game1\game1\game.c(111): warning C4715: “judge”: 不是所有的控件路径都返回值
+  game1.vcxproj -> e:\VS项目文件\game1\x64\Debug\game1.exe
